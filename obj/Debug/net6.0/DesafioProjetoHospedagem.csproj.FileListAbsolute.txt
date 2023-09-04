@@ -1,0 +1,15 @@
+C:\Exercicios\Sistema_hotelaria\trilha-net-explorando-desafio\bin\Debug\net6.0\DesafioProjetoHospedagem.exe
+C:\Exercicios\Sistema_hotelaria\trilha-net-explorando-desafio\bin\Debug\net6.0\DesafioProjetoHospedagem.deps.json
+C:\Exercicios\Sistema_hotelaria\trilha-net-explorando-desafio\bin\Debug\net6.0\DesafioProjetoHospedagem.runtimeconfig.json
+C:\Exercicios\Sistema_hotelaria\trilha-net-explorando-desafio\bin\Debug\net6.0\DesafioProjetoHospedagem.dll
+C:\Exercicios\Sistema_hotelaria\trilha-net-explorando-desafio\bin\Debug\net6.0\DesafioProjetoHospedagem.pdb
+C:\Exercicios\Sistema_hotelaria\trilha-net-explorando-desafio\obj\Debug\net6.0\DesafioProjetoHospedagem.csproj.AssemblyReference.cache
+C:\Exercicios\Sistema_hotelaria\trilha-net-explorando-desafio\obj\Debug\net6.0\DesafioProjetoHospedagem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Exercicios\Sistema_hotelaria\trilha-net-explorando-desafio\obj\Debug\net6.0\DesafioProjetoHospedagem.AssemblyInfoInputs.cache
+C:\Exercicios\Sistema_hotelaria\trilha-net-explorando-desafio\obj\Debug\net6.0\DesafioProjetoHospedagem.AssemblyInfo.cs
+C:\Exercicios\Sistema_hotelaria\trilha-net-explorando-desafio\obj\Debug\net6.0\DesafioProjetoHospedagem.csproj.CoreCompileInputs.cache
+C:\Exercicios\Sistema_hotelaria\trilha-net-explorando-desafio\obj\Debug\net6.0\DesafioProjetoHospedagem.dll
+C:\Exercicios\Sistema_hotelaria\trilha-net-explorando-desafio\obj\Debug\net6.0\refint\DesafioProjetoHospedagem.dll
+C:\Exercicios\Sistema_hotelaria\trilha-net-explorando-desafio\obj\Debug\net6.0\DesafioProjetoHospedagem.pdb
+C:\Exercicios\Sistema_hotelaria\trilha-net-explorando-desafio\obj\Debug\net6.0\DesafioProjetoHospedagem.genruntimeconfig.cache
+C:\Exercicios\Sistema_hotelaria\trilha-net-explorando-desafio\obj\Debug\net6.0\ref\DesafioProjetoHospedagem.dll
